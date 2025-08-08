@@ -1,7 +1,9 @@
 # tic_tac_toe
 
 A new Flutter project.
-
+A classic Tic Tac Toe game with two-player mode and an AI opponent powered by the Minimax algorithm 
+for optimal gameplay." If you want it a bit more fun and inviting: "Tic Tac Toe with a
+twist — challenge an unbeatable AI opponent built using the Minimax algorithm! on Flutter
 ## Getting Started
 
 This project is a starting point for a Flutter application.

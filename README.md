@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # tic_tac_flutter
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# AI-Tic-Tac-Toe
+A classic Tic Tac Toe game with two-player mode and an AI opponent powered by the Minimax algorithm for optimal gameplay."  If you want it a bit more fun and inviting:  "Tic Tac Toe with a twist — challenge an unbeatable AI opponent built using the Minimax algorithm! on Flutter
+>>>>>>> 90007bb61960c293566584e0777a1e980e56a3a4
