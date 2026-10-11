@@ -10,7 +10,8 @@ An AI-powered Tic-Tac-Toe game built with Flutter. Log in, pick a mode, and play
 
 | Login | Welcome | Mode Select |
 |:-----:|:-------:|:-----------:|
-| <img src="screenshots/login.png" width="240"> | <img src="screenshots/welcome.png" width="240"> | <img src="screenshots/mode_select.png" width="240"> |
+| <img width="1080" height="2436" alt="WhatsApp Image 2026-10-12 at 1 24 36 AM" src="https://github.com/user-attachments/assets/ad539a8b-48d3-48b8-aa6b-a58057fd34ed" />
+ | <img src="screenshots/welcome.png" width="240"> | <img src="screenshots/mode_select.png" width="240"> |
 
 | Gameplay | Result |
 |:--------:|:------:|
