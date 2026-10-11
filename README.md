@@ -10,16 +10,11 @@ An AI-powered Tic-Tac-Toe game built with Flutter. Log in, pick a mode, and play
 
 | Login | Welcome | Mode Select |
 |:-----:|:-------:|:-----------:|
-| <img width="1080" height="2436" alt="WhatsApp Image 2026-10-12 at 1 24 36 AM" src="https://github.com/user-attachments/assets/ad539a8b-48d3-48b8-aa6b-a58057fd34ed" />
- | <img width="1080" height="2436" alt="WhatsApp Image 2026-10-12 at 1 24 38 AM" src="https://github.com/user-attachments/assets/34a6da95-bc30-4807-9c7a-2947adf22459" />
-| <img width="1080" height="2436" alt="WhatsApp Image 2026-10-12 at 1 24 39 AM" src="https://github.com/user-attachments/assets/3db296db-d986-4b37-9224-155c50781f00" />
- |
+| <img width="220" alt="Login" src="https://github.com/user-attachments/assets/ad539a8b-48d3-48b8-aa6b-a58057fd34ed" /> | <img width="220" alt="Welcome" src="https://github.com/user-attachments/assets/34a6da95-bc30-4807-9c7a-2947adf22459" /> | <img width="220" alt="Mode Select" src="https://github.com/user-attachments/assets/3db296db-d986-4b37-9224-155c50781f00" /> |
 
 | Gameplay | Result |
 |:--------:|:------:|
-| <img width="1080" height="2436" alt="WhatsApp Image 2026-10-12 at 1 24 37 AM (1)" src="https://github.com/user-attachments/assets/e19639bf-004f-43af-81de-96fa060f9203" />
- | <img width="1080" height="2436" alt="WhatsApp Image 2026-10-12 at 1 24 37 AM" src="https://github.com/user-attachments/assets/1591b491-886e-4126-b75c-6deec507accf" />
- |
+| <img width="220" alt="Gameplay" src="https://github.com/user-attachments/assets/e19639bf-004f-43af-81de-96fa060f9203" /> | <img width="220" alt="Result" src="https://github.com/user-attachments/assets/1591b491-886e-4126-b75c-6deec507accf" /> |
 
 ## Features
 
